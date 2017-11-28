@@ -6,4 +6,4 @@ vim editor configurations
 ### In the repo's directory run:
 1. `cp .vimrc ~/.vimrc`
 2. `cp .vim/colors ~/.vim/colors`
-3. Open a vim window and run ':PluginInstall'
+3. Open a vim window and run `:PluginInstall`
