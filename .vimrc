@@ -4,7 +4,7 @@
 syntax enable
 colorscheme monokai
 
-set tabstop = 4
+set tabstop=4
 " General Config
 set showmatch
 "set tw=80
